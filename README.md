@@ -1,2 +1,12 @@
 # Flashcard Project
-This is my python learning experience!
+
+A beginner Python app to create and manage flashcards.
+
+## Features
+- Create flashcards
+- View and review them
+- Simple terminal interface
+
+## How to Run
+```bash
+python flashcards.py
