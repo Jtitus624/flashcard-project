@@ -9,4 +9,4 @@ A beginner Python app to create and manage flashcards.
 
 ## How to Run
 ```bash
-python flashcards.py
+main.py
