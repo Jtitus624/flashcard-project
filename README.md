@@ -1,3 +1,2 @@
 # Flashcard Project
-
-This project is helping me learn python basics!
+This is my python learning experience!
